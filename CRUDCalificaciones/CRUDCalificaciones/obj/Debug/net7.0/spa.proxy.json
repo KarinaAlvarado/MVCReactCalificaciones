@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44407",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\karin\\Downloads\\CRUDCalificaciones\\CRUDCalificaciones\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
